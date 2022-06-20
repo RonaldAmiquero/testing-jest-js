@@ -1,0 +1,15 @@
+{
+   "name": "webapp",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test:ui": "playwright test"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "@playwright/test": "1.22.2"
+   }
+}
